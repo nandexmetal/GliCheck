@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GliCheck Preview</string>
+
+    <string name="hello_world">Bem Vindo</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnRelatorio">Relatorios de Medições</string>
+    <string name="title_activity_cad_med_gli">Cadastro de Medicao de Glicemia</string>
+    <string name="lblGlicemia">Glicemia (dL/gm)</string>
+    <string name="edtGlicemia" />
+    <string name="btnSalvar">Salvar</string>
+    <string name="title_activity_relatorio_glicemia">Relatorio de Glicemia</string>
+    <string name="btnMedirGli">Inserir nova Medição</string>
+    <string name="lblData">data</string>
+    <string name="lblRelatorio">Listagem de Mediçoes</string>
+    <string name="btnDatePicker">Data</string>
+    <string name="txtValor">Valor</string>
+    <string name="edtValor">Valor</string>
+    <string name="btnAdcionar">Adcionar</string>
+    <string name="btnDeletar">Deletar</string>
+    <string name="rdbGejum">Gejum</string>
+    <string name="rdbPosPrandial">Pós-Pandrial</string>
+    <string name="rdbRotina">Rotina</string>
+    <string name="btnRemedios">Inserir novo Remedio</string>
+    <string name="btnGraficos">Gráficos</string>
+
+</resources>
